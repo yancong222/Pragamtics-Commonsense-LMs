@@ -1,2 +1,3 @@
 # Pragamtics-Commonsense-LMs
-Psycholinguistic Diagnosis of Language Models’ Commonsense Reasoning
+
+Python scripts and R code for the paper '_Psycholinguistic Diagnosis of Language Models’ Commonsense Reasoning_' CSRR workshop @ ACL-2022
