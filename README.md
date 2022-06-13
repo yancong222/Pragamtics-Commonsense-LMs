@@ -16,6 +16,6 @@ booktitle={ACL 2022 Workshop on Commonsense Representation and Reasoning},
 
 year={2022},
 
-url={https://openreview.net/forum?id=BVelBzKlOWc}
+url={https://aclanthology.org/2022.csrr-1.3/}
 
 }
